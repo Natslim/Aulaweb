@@ -1,0 +1,13 @@
+#titulo
+{
+    color: rgb(0, 47, 255);
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.data {
+    font-weight:normal;
+}
+body {
+    background-color: rgb(201, 224, 240);
+}
